@@ -2,7 +2,7 @@
 - 👀 I’m interested in cybersecurity and building projects in downtime
 - 🌱 I’m currently learning ethical hacking
 - 💞️ I’m looking to collaborate on various dev projects
-- 📫 How to reach me ..
+- 📫 How to reach me .. https://www.linkedin.com/in/samratth-singh-0b9b29279 
 - 😄 Pronouns: He/Him/TheChosenOne
 - ⚡ Fun fact: I am Batman
 
