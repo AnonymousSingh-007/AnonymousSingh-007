@@ -8,6 +8,8 @@
  - ⚡ Fun fact: Privacy is a Myth, but I’ll try to exploit it anyway.
  ## 💻 Tech Stack
 
+## 💻 Tech Stack
+
 ### 🖥️ Programming Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=green)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
@@ -21,6 +23,9 @@
 ![Zenmap](https://img.shields.io/badge/-Zenmap-1E90FF?logo=gnometerminal&logoColor=white)
 ![Hydra](https://img.shields.io/badge/-Hydra-228B22?logo=python&logoColor=white)
 ![Medusa](https://img.shields.io/badge/-Medusa-800080?logo=linux&logoColor=white)
+![SQLmap](https://img.shields.io/badge/-SQLmap-FFD700?logo=databricks&logoColor=black)
+![Hashcat](https://img.shields.io/badge/-Hashcat-696969?logo=hackaday&logoColor=white)
+
 <!---
 AnonymousSingh-007/AnonymousSingh-007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
