@@ -6,7 +6,7 @@
  - 📫 How to reach me .. https://www.linkedin.com/in/samratth-singh-0b9b29279 
  - 💬 Pronouns: He/Him (aka *The Chosen One*)  
  - ⚡ Fun fact: Privacy is a Myth, but I’ll try to exploit it anyway.
- ## 💻 Tech Stack
+
 
 ## 💻 Tech Stack
 
