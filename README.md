@@ -25,7 +25,8 @@
 ![Medusa](https://img.shields.io/badge/-Medusa-800080?logo=linux&logoColor=white)
 ![SQLmap](https://img.shields.io/badge/-SQLmap-FFD700?logo=databricks&logoColor=black)
 ![Hashcat](https://img.shields.io/badge/-Hashcat-696969?logo=hackaday&logoColor=white)
-
+![Burp Suite](https://img.shields.io/badge/-Burp_Suite-FF6633?logo=burpsuite&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/-OWASP_ZAP-004B87?logo=owasp&logoColor=white)
 <!---
 AnonymousSingh-007/AnonymousSingh-007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
