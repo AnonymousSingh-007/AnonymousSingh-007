@@ -94,14 +94,6 @@ Applying quantum walk-based graph encoding and hyperedge anomaly detection to cl
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnonymousSingh-007&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnonymousSingh-007&layout=compact&theme=dark&hide_border=true&langs_count=6" height="150"/>
-</p>
 
 ---
 
