@@ -73,13 +73,35 @@ Target venues: **IJRR** · **Pattern Recognition**
 
 ## 💻 Tech Stack
 
-**Languages:** Python · PowerShell · TypeScript · SQL
+**Languages**
 
-**ML & Research:** PyTorch · scikit-learn · NumPy · Pandas
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-**Security:** Burp Suite · Metasploit · Nmap · Wireshark · OWASP ZAP · Hydra · SQLmap · Scapy
+**ML & Research**
 
-**Frameworks:** React · FastAPI
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+
+**Security**
+
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat&logo=burpsuite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat&logo=metasploit&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat&logo=nmap&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-00549E?style=flat&logo=owasp&logoColor=white)
+![Hydra](https://img.shields.io/badge/Hydra-228B22?style=flat&logo=gnu&logoColor=white)
+![SQLmap](https://img.shields.io/badge/SQLmap-CC0000?style=flat&logo=databricks&logoColor=white)
+![Scapy](https://img.shields.io/badge/Scapy-306998?style=flat&logo=python&logoColor=white)
+
+**Frameworks**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 
 ---
 
