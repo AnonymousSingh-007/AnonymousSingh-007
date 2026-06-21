@@ -1,23 +1,53 @@
-# Samratth Singh · @AnonymousSingh-007
+<div align="center">
 
-> *Security researcher at the intersection of adversarial AI and offensive tooling.*
-> *I study how systems fail — and build the things that find out.*
+```
+█▀▀ ▄▀█ █▀▄▀█ █▀█ ▄▀█ ▀█▀ ▀█▀ █░█
+▄▄█ █▀█ █░▀░█ █▀▄ █▀█ ░█░ ░█░ █▀█
+```
 
-**📍 Pune, India · B.Tech CS (Cybersecurity) · Open to research collabs & security roles**
+**`Adversarial Systems Researcher · DIAT / DRDO-affiliated · Red Teamer`**
+
+*I study how intelligent systems are made to betray their purpose —*
+*across language models, multi-agent coordination, and behavioral biometrics.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samratth-singh-0b9b29279)
-[![Hack The Box](https://img.shields.io/badge/HTB-Top%205%25-9FEF00?style=flat&logo=hackthebox&logoColor=black)](https://www.hackthebox.com)
-[![Email](https://img.shields.io/badge/Open%20to%20Collabs-Let's%20Talk-blueviolet?style=flat)](#)
+[![HTB](https://img.shields.io/badge/HackTheBox-Top%205%25-9FEF00?style=flat&logo=hackthebox&logoColor=black)](https://www.hackthebox.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-anonymoussingh--007.github.io-blueviolet?style=flat&logo=github&logoColor=white)](https://anonymoussingh-007.github.io/Portfolio/)
+[![CTF](https://img.shields.io/badge/CTF-14th%20National%20Rank-orange?style=flat&logo=hackthebox&logoColor=white)](#)
+
+</div>
 
 ---
 
-## What I work on
+## ⚡ Active Research Status
 
-I research **adversarial AI and LLM security** — specifically how language models fail under adversarial pressure, and how to build systems that don't.
+<!-- RESEARCH STATUS CARDS — update manually or via GitHub Actions -->
 
-On the applied side I build **offensive and defensive security tooling**: attack-surface enumerators, behavioral biometrics, phishing infrastructure detection, and multi-agent tactical simulations.
+| Project | Stage | Status | Target |
+|---|---|---|---|
+| 🔴 **EVELYN** — Quantum Graph Phishing Detection | Stage 1b · DNS resolution | `🔄 Active` | IEEE S&P / USENIX |
+| 🟡 **SWARN** — Comm-Robust MARL for Drone Swarms | Phase D complete · Writing | `📝 Manuscript` | IEEE TNNLS |
+| 🟢 **MIMIC** — LSTM+DDPM Behavioral Evasion | Complete · JSD=0.1478 · 100% evasion | `📨 Submission` | IEEE TIFS |
+| ✅ **ICEM** — LLM Jailbreak Taxonomy | Published · Best Paper · Best Presentation | `🏆 NCTAAI 2024` | ICEM |
 
-Published researcher. Currently studying how RF-denied and high-dropout environments break swarm coordination in multi-agent systems, and building training regimes that are robust to it.
+---
+
+## 🧠 About
+
+```python
+researcher = {
+    "name"       : "Samratth Singh",
+    "affiliation": "DIAT · DRDO-affiliated · Pune",
+    "degree"     : "B.Tech CS (Cybersecurity)",
+    "focus"      : ["Adversarial AI", "LLM Red Teaming", "MARL Robustness",
+                    "Behavioral Biometrics", "Quantum Graph Theory"],
+    "published"  : True,
+    "award"      : "Best Paper · Best Presentation · ICEM / NCTAAI 2024",
+    "htb_rank"   : "Top 5% Global",
+    "ctf_rank"   : "14th National · Ciphathon",
+    "status"     : "Open to research collabs · Masters opportunities · Red team roles",
+}
+```
 
 > *Privacy is a myth. But I'll try to exploit it anyway.*
 
@@ -27,47 +57,40 @@ Published researcher. Currently studying how RF-denied and high-dropout environm
 
 | Paper | Venue | Year | Status |
 |---|---|---|---|
-| ICEM: A Taxonomy Framework for LLM Jailbreaking and Prompt Injection | NCTAAI 4.0 | 2024 | ✅ Published · 🏆 Best Paper Award |
-| MIMIC: Hybrid LSTM + DDPM for Realistic Mouse Motion Synthesis & Behavioral Evasion | — | 2025 | ✅ Completed |
-| Communication-Robust MARL for Adversarial Swarm Environments | Target: IJRR / Pattern Recognition | 2025–26 | 🔬 Active |
+| ICEM: Taxonomy of LLM Jailbreaking & Prompt Injection | NCTAAI 4.0 · ICEM | 2024 | ✅ Published · 🏆 Best Paper · Best Presentation |
+| MIMIC: Hybrid LSTM+DDPM for Mouse Motion Synthesis & Behavioral Evasion | IEEE TIFS (target) | 2025 | 📨 Under Submission |
+| SWARN: Communication-Robust MARL for Adversarial Swarm Environments | IEEE TNNLS (target) | 2025–26 | 🔬 Active · Phase D |
+| EVELYN: Quantum Walk Phishing Infrastructure Detection | IEEE S&P / USENIX (target) | 2026 | 🔄 Stage 1b |
 
 ---
 
-## 🛠️ Featured Projects
+## 🛠️ Systems Built
+
+### [EVELYN](https://github.com/AnonymousSingh-007/EVELYN) — Quantum Graph Phishing Infrastructure Detection
+> *They change their names. They can't change their shape.*
+
+Continuous-time quantum walk on a phishing infrastructure hypergraph. Topology fingerprint φ(G) = |⟨j|e^{−iHt}|k⟩|² is invariant to domain names — detects campaign infrastructure by shape, not string. Zero-shot on new topologies. Provably superior to GNNs for this task.
+`Python` `Quantum Walks` `NetworkX` `DBSCAN` `Graph ML`
+
+### [MARL-Research / SWARN](https://github.com/AnonymousSingh-007/MARL-Research) — Comm-Robust Drone Swarm RL
+> *Most MARL assumes perfect comms. Real swarms don't get that.*
+
+1,050-run benchmark identifying QMIX's structural blindness to communication state. Two-process fix: frozen QMIX explorer + KL-anchored Navigator. +13.0 detection points under chase jammer. 46 passing tests. Paper-grade figures generated.
+`PyTorch` `QMIX` `PPO` `MARL` `CUDA`
+
+### [MIMIC](https://github.com/AnonymousSingh-007/M.I.M.I.C.) — Behavioral Evasion via Synthetic Mouse Dynamics
+> *The model that fooled every bot detector it met.*
+
+Hybrid LSTM+DDPM framework synthesizing human-like mouse motion trajectories. JSD = 0.1478 (near-perfect human distribution match). 100% bot-detector evasion rate. 212,568-sample custom behavioral dataset.
+`Python` `PyTorch` `DDPM` `LSTM` `Adversarial ML`
 
 ### [T.E.M.P.E.S.T](https://github.com/AnonymousSingh-007/T.E.M.P.E.S.T) — Windows Attack Surface Enumerator
-Read-only PowerShell enumerator with unsupervised ML anomaly detection and HTML dashboard output. Built for red team recon without touching disk offensively.
-`PowerShell` `Python` `ML` `Red Team`
+Read-only PowerShell enumerator. Collects services, ports, autostart vectors, firewall rules, scheduled tasks, browser extensions. Optional unsupervised ML anomaly scoring. HTML dashboard output.
+`PowerShell` `Python` `Isolation Forest` `Red Team`
 
-### [MIMIC](https://github.com/AnonymousSingh-007/MIMIC) — Behavioral Evasion via Synthetic Mouse Dynamics
-Hybrid LSTM + DDPM framework that synthesizes realistic mouse motion to evade behavioral biometrics systems. Combines generative modeling with adversarial evasion.
-`Python` `PyTorch` `DDPM` `Adversarial ML`
-
-### [RAV3N-sec](https://github.com/AnonymousSingh-007/RAV3N-sec) — AI-Ready Static Vulnerability Scanner
-Fast, local static analyzer combining Regex + AST to detect 30+ security vulnerability classes in Python code. Severity-graded with rich CLI output. No API calls. Runs entirely local.
-`Python` `AST` `Static Analysis` `AppSec`
-
-### [Phish_Byte](https://github.com/AnonymousSingh-007/Phish_Byte) — Graph-Based Phishing Infrastructure Detection
-Phishing URL detection using graph-based feature extraction. Research extension applies quantum walk-based graph encoding and hyperedge anomaly detection for structural network analysis.
-`Python` `Graph ML` `Quantum Walks` `Threat Intel`
-
----
-
-## 🔬 Active Research
-
-**Communication-Robust MARL for Adversarial Swarm Environments**
-
-Most MARL research assumes perfect communication. Real drone swarms operate in RF-denied environments — links drop, latency spikes, topology shifts asymmetrically.
-
-This work builds:
-- A systematic comm-degradation benchmark across a dropout spectrum (0% → 80%), dynamic topology changes, and asymmetric link failures
-- A comm-robust variant of MAPPO/QMIX explicitly trained under randomised dropout via communication curriculum
-
-Implemented inside **ARKEN** — a battlefield intelligence platform with live Bayesian threat inference, SRTM terrain modeling, and a Palantir-inspired ops UI. Pure probabilistic ML. No LLM APIs.
-
-*Why it matters: sim-to-real transfer for drone swarms breaks primarily on communication, not control. Quantifying that gap and proposing a curriculum that survives it addresses an open problem that robotics, defence AI, and distributed systems communities all care about.*
-
-Target venues: **IJRR** · **Pattern Recognition**
+### [RAV3N-sec](https://github.com/AnonymousSingh-007/RAV3N-sec) — Static Vulnerability Scanner
+AST + Regex hybrid detecting 30+ vulnerability classes in Python. Severity-graded (HIGH/MED/LOW). Rich CLI. Runs entirely local — no API calls, no cloud.
+`Python` `AST` `Typer` `Rich` `AppSec`
 
 ---
 
@@ -94,8 +117,6 @@ Target venues: **IJRR** · **Pattern Recognition**
 ![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat&logo=nmap&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
 ![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-00549E?style=flat&logo=owasp&logoColor=white)
-![Hydra](https://img.shields.io/badge/Hydra-228B22?style=flat&logo=gnu&logoColor=white)
-![SQLmap](https://img.shields.io/badge/SQLmap-CC0000?style=flat&logo=databricks&logoColor=white)
 ![Scapy](https://img.shields.io/badge/Scapy-306998?style=flat&logo=python&logoColor=white)
 
 **Frameworks**
@@ -105,10 +126,57 @@ Target venues: **IJRR** · **Pattern Recognition**
 
 ---
 
-## Let's connect
+## 📊 GitHub Stats
 
-I'm open to **research collaborations**, **red-team engagements**, and **masters opportunities** in adversarial AI and LLM security.
+<div align="center">
 
-If you're working on something at the edge of AI and offensive security — reach out.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnonymousSingh-007&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=9FEF00&icon_color=9FEF00&text_color=ffffff&rank_icon=github)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnonymousSingh-007&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=9FEF00&text_color=ffffff)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=AnonymousSingh-007&theme=dark&hide_border=true&background=0d1117&stroke=9FEF00&ring=9FEF00&fire=FF6B35&currStreakLabel=9FEF00)
+
+</div>
+
+---
+
+## 🎵 Now Playing
+
+[![Spotify](https://img.shields.io/badge/Spotify-Now%20Playing-1DB954?style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/track/2xLMifQCjDGFmkHkpNLD9h)
+
+> 🎧 **Who? What!** — Travis Scott *(on loop during EVELYN builds)*
+
+---
+
+## 🗓️ Timeline
+
+```
+Aug 2024 ── GitHub account created
+Oct 2024 ── SPH1NX · P.R.I.S.M · Phish_Byte shipped
+Dec 2024 ── 🏆 Best Paper + Best Presentation · ICEM / NCTAAI 4.0
+Jan 2025 ── T.E.M.P.E.S.T v1 complete (PowerShell + ML)
+Feb 2025 ── S.I.F.E.R · Sparakthon project
+Mar 2025 ── Research Intern @ ICAR
+May 2025 ── Research Intern @ DIAT · DRDO-affiliated ← active
+Jun 2025 ── MARL-Research Phase A: 1,050-run benchmark complete
+Sep 2025 ── RAV3N-sec shipped (AST+Regex vulnerability scanner)
+Nov 2025 ── MIMIC complete · JSD=0.1478 · 100% bot evasion
+Jan 2026 ── MARL Phase D: Navigator+QMIX · +13pts under chase jammer
+Feb 2026 ── EVELYN initiated · Quantum graph phishing detection
+Jun 2026 ── SWARN manuscript · EVELYN Stage 1b active
+2026 ───── IEEE TNNLS (SWARN) · IEEE TIFS (MIMIC) · targeting IEEE S&P (EVELYN)
+```
+
+---
+
+## 🤝 Let's connect
+
+Open to **research collaborations**, **red-team engagements**, and **masters opportunities** in adversarial AI and LLM security. If you're working at the edge of AI and offensive security — reach out.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Samratth%20Singh-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samratth-singh-0b9b29279)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-blueviolet?style=flat&logo=github&logoColor=white)](https://anonymoussingh-007.github.io/Portfolio/)
+
+<div align="center">
+
+*`// system: AnonymousSingh-007 · status: hunting for the structural failure condition`*
+
+</div>
