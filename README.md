@@ -21,14 +21,12 @@
 
 ## ⚡ Active Research Status
 
-<!-- RESEARCH STATUS CARDS — update manually or via GitHub Actions -->
-
 | Project | Stage | Status | Target |
 |---|---|---|---|
-| 🔴 **EVELYN** — Quantum Graph Phishing Detection | Stage 1b · DNS resolution | `🔄 Active` | IEEE S&P / USENIX |
-| 🟡 **SWARN** — Comm-Robust MARL for Drone Swarms | Phase D complete · Writing | `📝 Manuscript` | IEEE TNNLS |
-| 🟢 **MIMIC** — LSTM+DDPM Behavioral Evasion | Complete · JSD=0.1478 · 100% evasion | `📨 Submission` | IEEE TIFS |
-| ✅ **ICEM** — LLM Jailbreak Taxonomy | Published · Best Paper · Best Presentation | `🏆 NCTAAI 2024` | ICEM |
+| 🔴 **EVELYN** — Quantum Graph Phishing Detection | Stage 2 · Quantum walks implementing | `🔄 Active` | IEEE S&P / USENIX |
+| 🟡 **SWARN** — Comm-Robust MARL for Drone Swarms | Manuscript complete · Submission imminent | `📝 Submitting` | IEEE TNNLS |
+| 🟢 **MIMIC** — LSTM+DDPM Behavioral Evasion | Complete · JSD=0.1478 · 100% evasion | `📨 Under Review` | IEEE TIFS |
+| ✅ **ICEM** — LLM Jailbreak Taxonomy | Published · Best Paper · Best Presentation | `🏆 NCTAAI 4.0 · 2024` | NCTAAI 4.0 |
 
 ---
 
@@ -42,7 +40,7 @@ researcher = {
     "focus"      : ["Adversarial AI", "LLM Red Teaming", "MARL Robustness",
                     "Behavioral Biometrics", "Quantum Graph Theory"],
     "published"  : True,
-    "award"      : "Best Paper · Best Presentation · ICEM / NCTAAI 2024",
+    "award"      : "Best Paper · Best Presentation · NCTAAI 4.0 · 2024",
     "htb_rank"   : "Top 5% Global",
     "ctf_rank"   : "14th National · Ciphathon",
     "status"     : "Open to research collabs · Masters opportunities · Red team roles",
@@ -57,10 +55,10 @@ researcher = {
 
 | Paper | Venue | Year | Status |
 |---|---|---|---|
-| ICEM: Taxonomy of LLM Jailbreaking & Prompt Injection | NCTAAI 4.0 · ICEM | 2024 | ✅ Published · 🏆 Best Paper · Best Presentation |
-| MIMIC: Hybrid LSTM+DDPM for Mouse Motion Synthesis & Behavioral Evasion | IEEE TIFS (target) | 2025 | 📨 Under Submission |
-| SWARN: Communication-Robust MARL for Adversarial Swarm Environments | IEEE TNNLS (target) | 2025–26 | 🔬 Active · Phase D |
-| EVELYN: Quantum Walk Phishing Infrastructure Detection | IEEE S&P / USENIX (target) | 2026 | 🔄 Stage 1b |
+| ICEM: Taxonomy of LLM Jailbreaking & Prompt Injection | NCTAAI 4.0 | 2024 | ✅ Published · 🏆 Best Paper · Best Presentation |
+| MIMIC: Hybrid LSTM+DDPM for Mouse Motion Synthesis & Behavioral Evasion | IEEE TIFS (target) | 2025 | 📨 Under Review |
+| SWARN: Communication-Robust MARL for Adversarial Swarm Environments | IEEE TNNLS (target) | 2025–26 | 📝 Submitting |
+| EVELYN: Quantum Walk Phishing Infrastructure Detection | IEEE S&P / USENIX (target) | 2026 | 🔄 Stage 2 · Quantum Walks |
 
 ---
 
@@ -141,9 +139,9 @@ AST + Regex hybrid detecting 30+ vulnerability classes in Python. Severity-grade
 
 ## 🎵 Now Playing
 
-[![Spotify](https://img.shields.io/badge/Spotify-Now%20Playing-1DB954?style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/track/2xLMifQCjDGFmkHkpNLD9h)
+[![Spotify](https://img.shields.io/badge/Spotify-Now%20Playing-1DB954?style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/search/Dark%20Knight%20Rustage)
 
-> 🎧 **Who? What!** — Travis Scott *(on loop during EVELYN builds)*
+> 🎧 **Dark Knight** — Rustage *(on loop during EVELYN quantum walks)*
 
 ---
 
@@ -152,7 +150,7 @@ AST + Regex hybrid detecting 30+ vulnerability classes in Python. Severity-grade
 ```
 Aug 2024 ── GitHub account created
 Oct 2024 ── SPH1NX · P.R.I.S.M · Phish_Byte shipped
-Dec 2024 ── 🏆 Best Paper + Best Presentation · ICEM / NCTAAI 4.0
+Dec 2024 ── 🏆 Best Paper + Best Presentation · NCTAAI 4.0
 Jan 2025 ── T.E.M.P.E.S.T v1 complete (PowerShell + ML)
 Feb 2025 ── S.I.F.E.R · Sparakthon project
 Mar 2025 ── Research Intern @ ICAR
@@ -162,7 +160,8 @@ Sep 2025 ── RAV3N-sec shipped (AST+Regex vulnerability scanner)
 Nov 2025 ── MIMIC complete · JSD=0.1478 · 100% bot evasion
 Jan 2026 ── MARL Phase D: Navigator+QMIX · +13pts under chase jammer
 Feb 2026 ── EVELYN initiated · Quantum graph phishing detection
-Jun 2026 ── SWARN manuscript · EVELYN Stage 1b active
+Jun 2026 ── SWARN manuscript complete · submitting to IEEE TNNLS
+Jun 2026 ── EVELYN Stage 2 · quantum walk implementation underway
 2026 ───── IEEE TNNLS (SWARN) · IEEE TIFS (MIMIC) · targeting IEEE S&P (EVELYN)
 ```
 
