@@ -12,6 +12,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samratth-singh-0b9b29279)
 [![HTB](https://img.shields.io/badge/HackTheBox-Top%205%25-9FEF00?style=flat&logo=hackthebox&logoColor=black)](https://www.hackthebox.com)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-SamSec007-FFD21E?style=flat&logo=huggingface&logoColor=black)](https://huggingface.co/SamSec007)
 [![Portfolio](https://img.shields.io/badge/Portfolio-anonymoussingh--007.github.io-blueviolet?style=flat&logo=github&logoColor=white)](https://anonymoussingh-007.github.io/Portfolio/)
 [![CTF](https://img.shields.io/badge/CTF-14th%20National%20Rank-orange?style=flat&logo=hackthebox&logoColor=white)](#)
 
@@ -90,6 +91,22 @@ Read-only PowerShell enumerator. Collects services, ports, autostart vectors, fi
 AST + Regex hybrid detecting 30+ vulnerability classes in Python. Severity-graded (HIGH/MED/LOW). Rich CLI. Runs entirely local — no API calls, no cloud.
 `Python` `AST` `Typer` `Rich` `AppSec`
 
+### [Phish_Byte](https://github.com/AnonymousSingh-007/Phish_Byte) — Cascading MLP Email Phishing Detector
+> *9,000× smaller than DistilBERT. Hits F1 0.948. Explains every verdict.*
+
+From-scratch PyTorch MLP trained on 29 hand-engineered features — no pretrained weights, no transformer backbone. Cascading inference: rule scorers short-circuit obvious phishing in ~1ms, MLP handles ambiguous cases in ~3ms. Per-feature attribution on every decision. Deployed on HuggingFace.
+
+| Metric | Value |
+|---|---|
+| F1 Score | **0.948** |
+| Accuracy | 94.4% |
+| Parameters | **12,545** (vs 66M DistilBERT) |
+| Throughput | **1,527 emails/sec** GPU |
+| Model size | ~50 KB |
+
+[![HuggingFace](https://img.shields.io/badge/Model-SamSec007%2Fphishbyte-FFD21E?style=flat&logo=huggingface&logoColor=black)](https://huggingface.co/SamSec007/phishbyte)
+`Python` `PyTorch` `Safetensors` `Explainable AI` `Email Security`
+
 ---
 
 ## 💻 Tech Stack
@@ -107,6 +124,7 @@ AST + Regex hybrid detecting 30+ vulnerability classes in Python. Severity-grade
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
 
 **Security**
 
@@ -162,6 +180,7 @@ Jan 2026 ── MARL Phase D: Navigator+QMIX · +13pts under chase jammer
 Feb 2026 ── EVELYN initiated · Quantum graph phishing detection
 Jun 2026 ── SWARN manuscript complete · submitting to IEEE TNNLS
 Jun 2026 ── EVELYN Stage 2 · quantum walk implementation underway
+Jun 2026 ── Phish_Byte model deployed on HuggingFace · F1 0.948 · 12.5k params
 2026 ───── IEEE TNNLS (SWARN) · IEEE TIFS (MIMIC) · targeting IEEE S&P (EVELYN)
 ```
 
@@ -172,6 +191,7 @@ Jun 2026 ── EVELYN Stage 2 · quantum walk implementation underway
 Open to **research collaborations**, **red-team engagements**, and **masters opportunities** in adversarial AI and LLM security. If you're working at the edge of AI and offensive security — reach out.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Samratth%20Singh-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samratth-singh-0b9b29279)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-SamSec007-FFD21E?style=flat&logo=huggingface&logoColor=black)](https://huggingface.co/SamSec007)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-blueviolet?style=flat&logo=github&logoColor=white)](https://anonymoussingh-007.github.io/Portfolio/)
 
 <div align="center">
